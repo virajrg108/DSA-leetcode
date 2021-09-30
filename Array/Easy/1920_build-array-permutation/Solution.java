@@ -1,4 +1,4 @@
-// https://leetcode.com/submissions/detail/562228929/
+// https://leetcode.com/problems/build-array-from-permutation/
 
 // Build Array from Permutation
 

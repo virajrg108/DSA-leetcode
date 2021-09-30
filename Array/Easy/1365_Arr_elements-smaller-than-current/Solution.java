@@ -1,4 +1,4 @@
-// https://github.com/virajrg108/DSA-leetcode.git
+// https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 
 // 1365. How Many Numbers Are Smaller Than the Current Number
 
